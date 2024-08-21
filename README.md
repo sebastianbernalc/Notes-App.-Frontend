@@ -30,16 +30,13 @@ The purpose of this project is to showcase both backend and frontend skills by d
 
 ## **Installation**
 
-### **1. Clone the Repository**
+### **1. Clone the Repository Frontend and Backend**
 ```bash
-git clone [https://github.com/username/project.git](https://github.com/ensolvers-github-challenges/BernalCuaspa-bc2231.git)
+git clone [https://github.com/username/project.git](https://github.com/sebastianbernalc/Notes-App.-Frontend)
+git clone [https://github.com/username/project.git](https://github.com/sebastianbernalc/Notes_App_Backend)
 cd project
 ```
-### **2. Add execute permissions and Run**
-```bash
-chmod +x start.sh
-./start.sh
-```
+
 
 ## **Documentation**
 For the backend implementation, MongoDB was used to create a database that stores both users and notes. This database enables user authentication and registration, as well as reading and modifying notes.

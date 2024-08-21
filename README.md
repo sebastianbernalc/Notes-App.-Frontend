@@ -44,7 +44,7 @@ chmod +x start.sh
 ## **Documentation**
 For the backend implementation, MongoDB was used to create a database that stores both users and notes. This database enables user authentication and registration, as well as reading and modifying notes.
 
-![Descripción de la imagen](./frontend/notes-app/src/assets/Images_readme/MongoDB.png)
+![Descripción de la imagen](./notes-app/src/assets/Images_readme/MongoDB.png)
 
 In the backend folder, you will find the config.json file, which contains the database URL required for establishing the connection.
 
@@ -87,27 +87,27 @@ npm install
 ### **1. Login Page**
 On the Login page, you will find the form to access the application. If you don’t have an account yet, you can register by clicking the "Login" button.
 You can use email:o@gmail.com password:123
-![Descripción de la imagen](./frontend/notes-app/src/assets/Images_readme/login.png)
+![Descripción de la imagen](./notes-app/src/assets/Images_readme/login.png)
 
 ### **2. SignUp Page**
 On the registration page, you can complete the form to create an account and gain access to the website.
-![Descripción de la imagen](./frontend/notes-app/src/assets/Images_readme/Signup.png)
+![Descripción de la imagen](./notes-app/src/assets/Images_readme/Signup.png)
 
 ### **3. Home Page**
 Once logged in, you will be directed to the home page. Here, you will see a prompt if you don't have any notes yet, guiding you to add a new note using the button located at the bottom right.
-![Descripción de la imagen](./frontend/notes-app/src/assets/Images_readme/Home.png)
+![Descripción de la imagen](./notes-app/src/assets/Images_readme/Home.png)
 
 ### **4. Add Note**
 After clicking the "Add Note" button, you will need to fill out the required fields and optionally add a tag to your note.
-![Descripción de la imagen](./frontend/notes-app/src/assets/Images_readme/Modal.png)
+![Descripción de la imagen](./notes-app/src/assets/Images_readme/Modal.png)
 
 ### **5. Notes**
 Once you have added as many notes as you like, you can view them all. You can also edit a note by clicking the pencil icon, delete it using the trash can icon, or archive it with the archive icon. Archived notes will be distinguished from the others.
-![Descripción de la imagen](./frontend/notes-app/src/assets/Images_readme/archive.png)
+![Descripción de la imagen](./notes-app/src/assets/Images_readme/archive.png)
 
 ### **6. Search Note**
 If you want to search for a specific note, you can use the search bar to filter it.
-![Descripción de la imagen](./frontend/notes-app/src/assets/Images_readme/Search.png)
+![Descripción de la imagen](./notes-app/src/assets/Images_readme/Search.png)
 
 ### **7. LogOut**
 Once you have organized and managed your notes, you can log out of the website.

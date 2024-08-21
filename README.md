@@ -32,8 +32,8 @@ The purpose of this project is to showcase both backend and frontend skills by d
 
 ### **1. Clone the Repository Frontend and Backend**
 ```bash
-git clone [https://github.com/username/project.git](https://github.com/sebastianbernalc/Notes-App.-Frontend)
-git clone [https://github.com/username/project.git](https://github.com/sebastianbernalc/Notes_App_Backend)
+git clone https://github.com/sebastianbernalc/Notes-App.-Frontend
+git clone https://github.com/sebastianbernalc/Notes_App_Backend
 cd project
 ```
 
